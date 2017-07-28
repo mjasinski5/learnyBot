@@ -1,0 +1,11 @@
+---
+applications:
+- name: learny-v1
+  command: npm start
+  domain: us-east.stage.internal.yaas.io
+  host: learny-v1
+  instances: 1
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git
+  memory: 128M
+env:
+  NODE_ENV: stage

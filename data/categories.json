@@ -1,0 +1,18 @@
+{
+    "categories": [
+        {
+            "title": "Psychology",
+            "id": "psychology",
+            "subtitle": "Understand the world. ",
+            "url": "",
+            "imageName": "psychology.jpg"
+        },
+        {
+            "title": "Programming",
+            "id": "programming",
+            "subtitle": "Understand the code. ",
+            "url": "",
+            "imageName": "programming.jpg"
+        }
+    ]
+}

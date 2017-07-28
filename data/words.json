@@ -1,0 +1,45 @@
+{
+    "words": [
+        {
+            "name": "Efekt Pigmaliona",
+            "category": "psychology",
+            "description": "Efekt Pigmaliona – odmiana samospełniającej się przepowiedni zidentyfikowana po raz pierwszy przez socjologa Roberta Mertona. Polega na spełnianiu się pozytywnego oczekiwania wobec kogoś dlatego, że to pozytywne oczekiwanie sobie wytworzyliśmy.",
+            "more": ["http://arturjablonski.com/potega-pierwszego-wrazenia-czyli-efekt-pigmaliona/"],
+            "tags": "wychowanie dzieci, manager"
+        },
+          {
+            "name": "Paradoks wyboru",
+            "category": "psychology",
+            "description": "Im więcej możliwości wyboru mamy, tym mniejsze szanse, że będziemy zadowoleni z naszej decyzji. Okazuje się, że ludzie, których do czegoś zmusił los i nie mieli wyjścia, po pewnym czasie potrafili pozytywnie wytłumaczyć sobie to wydarzenie.",
+            "more": ["https://www.youtube.com/watch?v=4q1dgn_C0AU"],
+            "tags": "manipulacja"
+        },
+          {
+            "name": "Reguła autorytetu",
+            "category": "psychology",
+            "description": "Reguła autorytetu to jedna z zasad wpływu społecznego, które wyróżnił Robert Cialdini, profesor psychologii Uniwersytetu Stanowego w Arizonie. Polega ona na większej skłonności do posłuszeństwa osobom, które uważa się za autorytety. Czasem jednak ulega się jedynie pozorom i atrybutom wysokiego statusu, koncentrując się na pozamerytorycznej wartości przekazu.",
+            "more": ["https://portal.abczdrowie.pl/regula-autorytetu"],
+            "books": ["Robert Cialdini, Wywieranie wpływu na ludzi"],
+            "tags": "manipulacja"
+        },
+          {
+            "name": "Efekt Pratfalla",
+            "category": "psychology",
+            "description": "Ludzie nie cierpią chodzących ideałów. Zrobiłeś kiedyś coś głupiego? Popełniłeś błąd? Dałeś plamę? Nie martw się, ponieważ to działa na Twoją korzyść. Ludzie uwielbiają słuchać o porażkach innych, ponieważ odnoszą je do swoich i zdają sobie sprawę z tego, że wszyscy popełniają błędy. Dzięki Twojej porażce Twój znajomy poczuje się lepiej ze sobą, a przez to bardziej polubi Twoje towarzystwo. Nie bój się więc podzielić anegdotą, że przewróciłeś się w miejscu publicznym, zawaliłeś projekt w pracy, albo zbłaźniłeś się przed dziewczyną.",
+            "more": ["https://en.wikipedia.org/wiki/Pratfall_effect"]
+        },
+          {
+            "name": "Aleksytymia",
+            "category": "psychology",
+            "description": "(od gr. a – brak, lexis – słowo, thymos – emocja) oznacza zaburzenie procesów emocjonalnych polegające na tym, że ludzie są „ślepi” na własne uczucia i nie mogą pojąć tej ślepoty.",
+            "more": ["http://charaktery.eu/slownik-psychologiczny/125"]
+        },
+          {
+            "name": "Atychifobia",
+            "category": "psychology",
+            "description": "- (od gr. słów atyches – porażka i phobos – lęk) oznacza nieuzasadniony, skrajnie nasilony i utrzymujący się strach przed niepowodzeniem.",
+            "more": ["http://charaktery.eu/slownik-psychologiczny/atychifobia"]
+        }
+
+    ]
+}
